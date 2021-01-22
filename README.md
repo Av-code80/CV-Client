@@ -1,2 +1,4 @@
 # ProjetCV-Client
-Commande pour la création de CV
+Commande du Client :
+Création de CV professionel dans le domain de Marketing et Informatique en page WEB.
+
