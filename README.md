@@ -6,7 +6,7 @@ Transformer son CV à website#
 
 # Commande d'un client en décoration d'intérieur :
 
-Création d'un website CV professionel dans le domain de la décoration d'intérieur et d'Informatique .
+Création d'un website CV professionel dans le domain de la décoration d'intérieur.
 
 # Components
 
