@@ -1,4 +1,4 @@
-# ProjetCV-Client
+# ProjetCV-Client : Chloé
 
 # Commande du client :
 
